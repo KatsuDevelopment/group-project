@@ -12,7 +12,7 @@ const teamMembers = reactive([
     avatarUrl: 'https://avatars.githubusercontent.com/u/180245470?v=4' // Example generic GitHub avatar
   },
   {
-    name: 'Pitchayaphak-Konchom',
+    name: 'Pitchayaphak Konchom',
     role: '**Blank**',
     githubUsername: 'Pitchayaphak-K',
     profileUrl: 'https://github.com/Pitchayaphak-K',
@@ -24,6 +24,20 @@ const teamMembers = reactive([
     githubUsername: 'Suchet191',
     profileUrl: 'https://github.com/Suchet191',
     avatarUrl: 'https://avatars.githubusercontent.com/u/205877949?v=4' // Example generic GitHub avatar
+  },
+  {
+    name: 'Supanat Ponkong',
+    role: 'Lead Developer',
+    githubUsername: 'ItxM3G4RrYz',
+    profileUrl: 'https://github.com/ItxM3G4RrYz',
+    avatarUrl: 'https://avatars.githubusercontent.com/u/180245470?v=4' // Example generic GitHub avatar
+  },
+  {
+    name: 'Supanat Ponkong',
+    role: 'Lead Developer',
+    githubUsername: 'ItxM3G4RrYz',
+    profileUrl: 'https://github.com/ItxM3G4RrYz',
+    avatarUrl: 'https://avatars.githubusercontent.com/u/180245470?v=4' // Example generic GitHub avatar
   }
 ]);
 
